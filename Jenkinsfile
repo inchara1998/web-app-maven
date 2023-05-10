@@ -6,7 +6,7 @@ pipeline{
     stages{
         stage('Get Code'){
             steps{
-                git "https://github.com/ashokitschool/maven-web-app.git"
+                git "https://github.com/inchara1998/web-app-maven.git"
         }
     }
         stage('Build'){
