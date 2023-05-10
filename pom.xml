@@ -9,12 +9,11 @@
   <url>http://maven.apache.org</url>
 
   <properties>
-    <sonar.host.url>http://3.88.1.223:9000</sonar.host.url>
+    <sonar.host.url>http://54.145.24.211:9000/</sonar.host.url>
     <sonar.login>4187b605e54e3c2e16c9d84de61d944c9be4e4bc</sonar.login>
    
     
   </properties>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
