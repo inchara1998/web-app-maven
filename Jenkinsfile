@@ -9,7 +9,7 @@ pipeline{
                 git "https://github.com/inchara1998/web-app-maven.git"
         }
     }
-        stage('Build'){
+        stage('Build code'){
             steps{
                 sh 'mvn clean package'
         }
